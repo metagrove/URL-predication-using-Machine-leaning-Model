@@ -50,4 +50,4 @@ else:
     print("Legitimate URL")
 ```
 
-This project is a practical demonstration of how machine learning can be applied to cybersecurity tasks such as spam detection. The code is structured to be easily understandable for beginners, with clear steps and comments throughout.
+This project is a practical demonstration of how machine learning can be applied to cybersecurity tasks such as spam detection. The code is structured to be easily understandable for beginners.
